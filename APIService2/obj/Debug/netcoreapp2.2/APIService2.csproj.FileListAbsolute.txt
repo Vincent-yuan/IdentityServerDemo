@@ -1,0 +1,14 @@
+G:\Dot_NET\IdentityServerDemo\APIService2\bin\Debug\netcoreapp2.2\APIService2.deps.json
+G:\Dot_NET\IdentityServerDemo\APIService2\bin\Debug\netcoreapp2.2\APIService2.runtimeconfig.json
+G:\Dot_NET\IdentityServerDemo\APIService2\bin\Debug\netcoreapp2.2\APIService2.runtimeconfig.dev.json
+G:\Dot_NET\IdentityServerDemo\APIService2\bin\Debug\netcoreapp2.2\APIService2.dll
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.csproj.CoreCompileInputs.cache
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.RazorAssemblyInfo.cache
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.RazorAssemblyInfo.cs
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.AssemblyInfoInputs.cache
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.AssemblyInfo.cs
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.RazorTargetAssemblyInfo.cache
+G:\Dot_NET\IdentityServerDemo\APIService2\bin\Debug\netcoreapp2.2\APIService2.pdb
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.csprojAssemblyReference.cache
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.dll
+G:\Dot_NET\IdentityServerDemo\APIService2\obj\Debug\netcoreapp2.2\APIService2.pdb
